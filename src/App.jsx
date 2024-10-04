@@ -1,5 +1,11 @@
+import QuoteGenerator from "./components/quote-generator";
+
 function App() {
-  return <></>;
+  return (
+    <>
+      <QuoteGenerator />
+    </>
+  );
 }
 
 export default App;
